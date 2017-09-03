@@ -1,0 +1,26 @@
+{
+  "name": "bithumbapi",
+  "version": "1.0.0",
+  "description": "bithumb api promise based (using AXIOS)",
+  "main": "bithumbAPI.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsukmin/bithumbAPI.git"
+  },
+  "keywords": [
+    "bithumb",
+    "coin",
+    "api"
+  ],
+  "author": "imsukmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imsukmin/bithumbAPI/issues"
+  },
+  "homepage": "https://github.com/imsukmin/bithumbAPI#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "crypto": "^1.0.1"
+  }
+}
